@@ -1,0 +1,4 @@
+SELECT * 
+FROM people
+-- Write your code below
+WHERE age >= 20 AND age <= 28
