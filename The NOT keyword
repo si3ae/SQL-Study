@@ -1,0 +1,4 @@
+SELECT *
+FROM PEOPLE
+-- Write your code below
+WHERE NOT status = 'retired'
