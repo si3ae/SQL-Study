@@ -1,0 +1,2 @@
+SELECT DISTINCT name FROM people
+WHERE name IS NOT NULL
