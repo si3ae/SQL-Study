@@ -1,0 +1,3 @@
+SELECT id
+FROM feathers
+ORDER BY weight DESC
